@@ -1,6 +1,6 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgNNDZbAVv7CgGeo82Qd0ASl_g-w9xqtUJA&s)]([https://github.com/Pathaan])
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvOtrV439KbZsQWfIt9d-fsLVisBwWRNMhg&s)]([https://github.com/Pathaan])
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh9ANCcnc8CmNlqvf8dwepPYeLpp93KQBfng&s)]([https://github.com/Pathaan])
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTByjPTc0U_QWpNlkorCFwKRDrS-6sSDpBIQ&s)]([https://github.com/Pathaan])
 <h1 align="center">Hi 👋, I'm Md Shahrukh</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
 
