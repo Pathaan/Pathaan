@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRUb2_JmsbfM8PLpNcBr3uzMFv0-YSLtuGQ&s)]([https://github.com/Pathaan])
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgNNDZbAVv7CgGeo82Qd0ASl_g-w9xqtUJA&s)]([https://github.com/Pathaan])
 
 <h1 align="center">Hi 👋, I'm Md Shahrukh</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
