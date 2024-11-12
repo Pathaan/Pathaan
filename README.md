@@ -1,12 +1,11 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbRUb2_JmsbfM8PLpNcBr3uzMFv0-YSLtuGQ&s)]([https://github.com/Pathaan])
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnnHMdIsVgpZ8oZXRiHh5kI0ZEVLRGm9bDw&s)]([https://github.com/Pathaan])
-[![MasterHead](https://files.oaiusercontent.com/file-KmpdnFXg7QBOJxCHQ7QmOai9?se=2024-11-12T15%3A42%3A31Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D940f8d0e-6114-427b-8023-bd95958839f1.webp&sig=0MPb5cNXj7VfUmpuw3D8SqBoGPCv4FVPnqLDemyZBqg%3D)]([https://github.com/Pathaan])
+
 <h1 align="center">Hi 👋, I'm Md Shahrukh</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pathaan&label=Profile%20views&color=0e75b6&style=flat" alt="pathaan" /> </p>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnnHMdIsVgpZ8oZXRiHh5kI0ZEVLRGm9bDw&s">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathaan" alt="pathaan" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pathaan&label=Profile%20views&color=0e75b6&style=flat" alt="pathaan" /> </p>
 
 - 🔭 I’m currently working on **Sentiment Analysis**
 
@@ -32,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathaan&show_icons=true&locale=en&layout=compact" alt="pathaan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathaan&show_icons=true&locale=en" alt="pathaan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pathaan&" alt="pathaan" /></p>
