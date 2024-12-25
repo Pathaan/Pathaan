@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathaan&label=Profile%20views&color=0e75b6&style=flat" alt="pathaan" /> </p>
 
-- 🔭 I’m currently working on **Sentiment Analysis**
+- 🔭 I’m currently working on **Chatbot Project**
 
 - 🌱 I’m learned **Postgraduate Diploma in Applied Statistics**
 
