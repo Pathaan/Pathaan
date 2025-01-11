@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mdshahrukhbme@gmail.com**
 
-- 📄 Know about my experiences [Md_Shahrukh_Resume .pdf]
+- 📄 Know about my experiences [[Md_Shahrukh_Resume .pdf](https://github.com/Pathaan/Pathaan/blob/main/Md_Shahrukh_Resume%20.pdf)
 
 - ⚡ Fun fact **I believe every dataset tells a story, but not every dataset appreciates my sense of humor.**
 
