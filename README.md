@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Shahrukh</h1>
-<h3 align="center">Aspiring Actuary | Data Scientist | AI/ML Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnnHMdIsVgpZ8oZXRiHh5kI0ZEVLRGm9bDw&s">
+<h3 align="center">Aspiring Actuary | Data Analyst | AI/ML Enthusiast</h3>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ae262a96-6e4f-4415-a216-fd6fce3559b6" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathaan&label=Profile%20views&color=0e75b6&style=flat" alt="pathaan" /> </p>
 
@@ -10,7 +12,7 @@
 - 📊 I’ve worked on projects in **insurance analytics, health AI, churn prediction, credit risk, and RAG chatbots**  
 - 💡 Currently preparing for **CS2 & CM1 Actuarial Exams**, after clearing CS1 and CB2  
 - 📫 Reach me at **mdshahrukhbme@gmail.com**  
-- 📄 [Resume](https://github.com/Pathaan/Pathaan/blob/main/Md_Shahrukh_Resume%20.pdf)  
+- 📄 [Resume](https://github.com/Pathaan/Pathaan/blob/main/Md_Shahrukh_Resume_Actuarial.pdf)  
 - ⚡ Fun fact: My datasets have more structure than my sleep schedule 😄  
 
 ---
