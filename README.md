@@ -1,34 +1,99 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgNNDZbAVv7CgGeo82Qd0ASl_g-w9xqtUJA&s)]([https://github.com/Pathaan])
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvOtrV439KbZsQWfIt9d-fsLVisBwWRNMhg&s)]([https://github.com/Pathaan])
-
 <h1 align="center">Hi 👋, I'm Md Shahrukh</h1>
-<h3 align="center">An Aspiring Data Scientist</h3>
+<h3 align="center">Aspiring Actuary | Data Scientist | AI/ML Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnnHMdIsVgpZ8oZXRiHh5kI0ZEVLRGm9bDw&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathaan&label=Profile%20views&color=0e75b6&style=flat" alt="pathaan" /> </p>
 
-- 🔭 I’m currently working on **Chatbot Project**
+- 🎯 I'm an ISI Kolkata graduate with a Postgraduate Diploma in **Applied Statistics (PGDAS)**  
+- 🧠 I combine actuarial modelling with machine learning to build innovative, data-driven solutions  
+- 📊 I’ve worked on projects in **insurance analytics, health AI, churn prediction, credit risk, and RAG chatbots**  
+- 💡 Currently preparing for **CS2 & CM1 Actuarial Exams**, after clearing CS1 and CB2  
+- 📫 Reach me at **mdshahrukhbme@gmail.com**  
+- 📄 [Resume](https://github.com/Pathaan/Pathaan/blob/main/Md_Shahrukh_Resume%20.pdf)  
+- ⚡ Fun fact: My datasets have more structure than my sleep schedule 😄  
 
-- 🌱 I’m learned **Postgraduate Diploma in Applied Statistics**
+---
 
-- 💬 Ask me about **Mathematics, Statistics, Machine Learning, Deep Learning, Data Science, R etc.**
+## 🚀 Project Highlights
 
-- 📫 How to reach me **mdshahrukhbme@gmail.com**
+### 💬 [Gemini RAG Chatbot](https://github.com/Pathaan/Chatobot_GeminiRag)
+> **Streamlit-based Chatbot** powered by Google Gemini API, LangChain & ChromaDB.  
+> Enables AI Q&A over PDF policy documents for actuarial & regulatory use cases.  
+**Tech:** LangChain, ChromaDB, Streamlit, PDF parsing, Prompt Engineering
 
-- 📄 Know about my experiences [Md_Shahrukh_Resume .pdf](https://github.com/Pathaan/Pathaan/blob/main/Md_Shahrukh_Resume%20.pdf)
+---
 
-- ⚡ Fun fact **I believe every dataset tells a story, but not every dataset appreciates my sense of humor.**
+### 🧠 [Brain Tumor Detection with YOLO](https://github.com/Pathaan/Tumor-detection-)
+> Multi-class tumor detection using YOLOv8 and OpenCV on MRI images.  
+> Used custom annotations and model evaluation for precision healthcare AI.  
+**Tech:** YOLOv8, Python, OpenCV, Deep Learning
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/md-shahrukh-locky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-shahrukh-locky/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/mdshahrukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mdshahrukh" height="30" width="40" /></a>
-</p>
+### 📉 [Churn Prediction using ANN](https://github.com/Pathaan/Churn-Prediction)
+> Built an artificial neural network that predicted churn with 86.82% accuracy.  
+> Directly applicable to actuarial lapse modelling and persistency analysis.  
+**Tech:** TensorFlow, Keras, Pandas, Feature Engineering
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathaan&show_icons=true&locale=en&layout=compact" alt="pathaan" /></p>
+### 📈 [Credit Card Analytics Dashboard](https://github.com/Pathaan/customer_credit_card_data_report)
+> Interactive Power BI dashboard with KPIs like CLTV, churn rate, risk segmentation.  
+> Helped strategize personalized retention & credit allocation.  
+**Tech:** Power BI, DAX, Python
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathaan&show_icons=true&locale=en" alt="pathaan" /></p>
+---
+
+🧰 Tools & Technologies
+💻 Languages
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" /> <img src="https://img.shields.io/badge/VBA-002060?style=flat&logo=microsoft&logoColor=white" alt="VBA" /> </p>
+📚 Libraries & Frameworks
+<p align="left"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=black" alt="scikit-learn" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/LangChain-00B2EE?style=flat&logo=langchain&logoColor=white" alt="LangChain" /> </p>
+🛠️ Tools
+<p align="left"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=google-colab&logoColor=white" alt="Google Colab" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" /> </p>
+📈 Tech Domains
+<p align="left"> <img src="https://img.shields.io/badge/Actuarial%20Science-blue?style=flat&logoColor=white" alt="Actuarial Science" /> <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=flat&logo=scikit-learn&logoColor=white" alt="ML" /> <img src="https://img.shields.io/badge/Computer%20Vision-795548?style=flat&logo=openCV&logoColor=white" alt="CV" /> <img src="https://img.shields.io/badge/NLP-673AB7?style=flat&logo=spaCy&logoColor=white" alt="NLP" /> <img src="https://img.shields.io/badge/Statistical%20Analysis-3f51b5?style=flat&logo=r&logoColor=white" alt="Stats" /> </p>
+
+---
+
+## 📜 Certifications
+
+- 🏥 AI in Healthcare – Stanford University  
+- 🧠 Python & Pandas for Data Engineering – Duke University  
+- 🗃️ Managing Big Data with MySQL – Duke University  
+- 📊 Drive Insights with BigQuery – Google Cloud  
+- 🧾 AIG Actuarial Analyst & Claims Simulations – Forage  
+
+---
+
+## 🧑‍💼 Experience
+
+**CodSoft (Data Science Intern)** – Built recommender systems, classification models, visualizations.  
+**Upskill Campus + UniConverge Tech** – Worked on crop-weed detection using YOLO & ML.  
+
+---
+
+## 🎓 Education
+
+🎓 **Postgraduate Diploma in Applied Statistics (PGDAS)**  
+*Indian Statistical Institute, Kolkata – 86.05%*  
+🎓 **B.Sc. Mathematics – Ranchi University**  
+*76.96% | 2018–2021*
+
+---
+
+## 🏆 Achievements
+
+- Ranked **10th** in ISI PGDAS entrance  
+- Active Member – **Institute of Actuaries of India (IAI)**  
+- Cleared **CS1** and **CB2**, awaiting **CS2** and **CM1** results  
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdshahrukhlocky-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-shahrukh-locky/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Pathaan-black?style=for-the-badge&logo=github)](https://github.com/Pathaan)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-mdshahrukh-teal?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/mdshahrukh)
+
+---
