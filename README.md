@@ -19,6 +19,16 @@
 
 ## 🚀 Project Highlights
 
+
+### 🦁 [LionVest AI – AI-Powered Investment Advisor](https://github.com/Pathaan/Finance_Advisor_AI)
+Streamlit | Python | yFinance | Plotly | Google Gemini | Multi-Agent Systems
+
+> Designed and deployed an AI-driven financial dashboard that analyzes Indian stock market data and delivers investment recommendations using Google Gemini-powered agents via the Agno framework.
+> Developed multiple LLM-based agents (Market Analyst, Company Researcher, Stock Strategist, Team Lead) to independently evaluate stock trends, summarize financial news, and synthesize comprehensive investment reports.
+> Integrated live stock data using yfinance and visualized performance over custom timeframes with Plotly charts in a professional, dark-themed UI using Streamlit.
+> Enabled dynamic user input for custom stock symbols and date ranges; automated interpretation of volatility, sector performance, and valuation insights across top NSE-listed companies.
+> Implemented secure API access using .env and ensured production-ready deployment via Git and modular Python structure.
+> 
 ### 💬 [Gemini RAG Chatbot](https://github.com/Pathaan/Chatobot_GeminiRag)
 > **Streamlit-based Chatbot** powered by Google Gemini API, LangChain & ChromaDB.  
 > Enables AI Q&A over PDF policy documents for actuarial & regulatory use cases.  
