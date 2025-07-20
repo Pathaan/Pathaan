@@ -96,9 +96,7 @@ Streamlit | Python | yFinance | Plotly | Google Gemini | Multi-Agent Systems
 
 ## 🏆 Achievements
 
-- Ranked **10th** in ISI PGDAS entrance  
 - Active Member – **Institute of Actuaries of India (IAI)**  
-- Cleared **CS1** and **CB2**, awaiting **CS2** and **CM1** results  
 
 ---
 
