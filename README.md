@@ -81,7 +81,7 @@ Streamlit | Python | yFinance | Plotly | Google Gemini | Multi-Agent Systems
 ## 🧑‍💼 Experience
 
 **CodSoft (Data Science Intern)** – Built recommender systems, classification models, visualizations.  
-**Upskill Campus and UniConverge Technologies Pvt. Ltd.** – Worked on crop-weed detection using YOLO & ML.  
+**Upskill Campus and UniConverge Technologies Pvt. Ltd.** – Worked on crop-weed detection using YOLO.  
 
 ---
 
