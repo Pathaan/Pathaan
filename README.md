@@ -12,8 +12,10 @@
 - 📊 I’ve worked on projects in **insurance analytics, health AI, churn prediction, credit risk, and RAG chatbots**  
 - 💡 Currently preparing for **CS2 & CM1 Actuarial Exams**, after clearing CS1 and CB2  
 - 📫 Reach me at mdshahrukhbme@gmail.com 
-- 📄 [Resume](https://github.com/Pathaan/Pathaan/blob/main/Md_Shahrukh_Resume_Actuarial.pdf)  
-- ⚡ Fun fact: My datasets have more structure than my sleep schedule 😄  
+- 📄 [Resume](https://github.com/Pathaan/Pathaan/blob/main/Md_Shahrukh_Resume_Actuarial.pdf)
+- 
+- ⚡ Fun fact: My datasets have more structure than my sleep schedule <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/715c9911-63fc-44c7-ad3c-ce24b26caf26" />
+  
 
 ---
 
