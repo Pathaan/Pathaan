@@ -14,7 +14,7 @@
 - 📫 Reach me at mdshahrukhbme@gmail.com 
 - 📄 [Resume](https://github.com/Pathaan/Pathaan/blob/main/Md_Shahrukh_Resume_Actuarial.pdf)
 - 
-- ⚡ Fun fact: My datasets have more structure than my sleep schedule <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/715c9911-63fc-44c7-ad3c-ce24b26caf26" />
+- ⚡ Fun fact: My datasets have more structure than my sleep schedule 😂
   
 
 ---
