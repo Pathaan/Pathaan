@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Md Shahrukh</h1>
 
-<h3 align="center">Aspiring Actuary | Data Analyst | AI/ML Enthusiast</h3>
+<h3 align="center">Aspiring Actuary | Data Scientist | AI/ML Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ae262a96-6e4f-4415-a216-fd6fce3559b6" />
 
