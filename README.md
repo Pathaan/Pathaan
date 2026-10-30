@@ -61,7 +61,12 @@ Streamlit | Python | yFinance | Plotly | Google Gemini | Multi-Agent Systems
 🧰 Tools & Technologies
 
 💻 Languages
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />  </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" /> 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />  
+</p>
 📚 Libraries & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
@@ -79,8 +84,6 @@ Streamlit | Python | yFinance | Plotly | Google Gemini | Multi-Agent Systems
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
@@ -95,11 +98,8 @@ Streamlit | Python | yFinance | Plotly | Google Gemini | Multi-Agent Systems
   <img src="https://img.shields.io/badge/Statistical%20Modelling-3F51B5?style=flat" alt="Statistical Modelling" />
   <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-795548?style=flat" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/NLP-673AB7?style=flat" alt="Natural Language Processing" />
   <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=flat" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/Insurance%20Analytics-00897B?style=flat" alt="Insurance Analytics" />
-  <img src="https://img.shields.io/badge/Explainable%20AI-455A64?style=flat" alt="Explainable AI" />
 </p>
 ---
 
