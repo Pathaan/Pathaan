@@ -75,7 +75,6 @@ Streamlit | Python | yFinance | Plotly | Google Gemini | Multi-Agent Systems
   <img src="https://img.shields.io/badge/Statsmodels-4051B5?style=flat" alt="Statsmodels" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/XGBoost-189F5B?style=flat" alt="XGBoost" />
   <img src="https://img.shields.io/badge/SHAP-008080?style=flat" alt="SHAP" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
@@ -97,7 +96,6 @@ Streamlit | Python | yFinance | Plotly | Google Gemini | Multi-Agent Systems
   <img src="https://img.shields.io/badge/Actuarial%20Science-1565C0?style=flat" alt="Actuarial Science" />
   <img src="https://img.shields.io/badge/Statistical%20Modelling-3F51B5?style=flat" alt="Statistical Modelling" />
   <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="Deep Learning" />
   <img src="https://img.shields.io/badge/NLP-673AB7?style=flat" alt="Natural Language Processing" />
   <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=flat" alt="Generative AI" />
 </p>
