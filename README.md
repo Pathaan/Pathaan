@@ -88,8 +88,7 @@ Streamlit | Python | yFinance | Plotly | Google Gemini | Multi-Agent Systems
  📈 Tech Domains
 <p align="left">
   <img src="https://img.shields.io/badge/Actuarial%20Science-1565C0?style=flat" alt="Actuarial Science" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/NLP-673AB7?style=flat" alt="Natural Language Processing" />
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=flat" alt="Generative AI" />
 </p>
 ---
