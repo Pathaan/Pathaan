@@ -114,11 +114,6 @@ Streamlit | Python | yFinance | Plotly | Google Gemini | Multi-Agent Systems
 *Indian Statistical Institute, Kolkata – 86.05%*  
 🎓 **B.Sc. Mathematics – Ranchi University**  
 *76.96% | 2018–2021*
-
----
-
-## 🏆 Achievements
-
 - Active Member – **Institute of Actuaries of India (IAI)**  
 
 ---
