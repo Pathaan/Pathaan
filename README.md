@@ -58,7 +58,7 @@ Streamlit | Python | yFinance | Plotly | Google Gemini | Multi-Agent Systems
 
 ---
 
-🧰 Tools & Technologies
+### 🧰 Tools & Technologies
 
 💻 Languages
 <p align="left">
@@ -76,7 +76,6 @@ Streamlit | Python | yFinance | Plotly | Google Gemini | Multi-Agent Systems
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
 </p>
  🛠️ Tools & Platforms
-
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
