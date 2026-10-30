@@ -91,7 +91,7 @@ Streamlit | Python | yFinance | Plotly | Google Gemini | Multi-Agent Systems
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=flat" alt="Generative AI" />
 </p>
----
+
 
 ## 📜 Certifications
 
