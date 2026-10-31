@@ -2,8 +2,8 @@
 
 <h3 align="center">Aspiring Actuary | Data Scientist </h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ae262a96-6e4f-4415-a216-fd6fce3559b6" />
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1c5ac40c-d4cf-4c14-9d9c-436e0f4d555f" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathaan&label=Profile%20views&color=0e75b6&style=flat" alt="pathaan" /> </p>
 
