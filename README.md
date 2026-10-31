@@ -9,8 +9,8 @@
 
 - 🎯 I'm an ISI Kolkata graduate with a Postgraduate Diploma in **Applied Statistics (PGDAS)**  
 - 🧠 I combine actuarial modelling with machine learning to build innovative, data-driven solutions  
-- 📊 I’ve worked on projects in **insurance analytics, health AI, churn prediction, credit risk, and RAG chatbots**  
-- 💡 CS1 and CB2  
+- 📊 I’m currently developing a **Distributed AI Market Intelligence & Quantitative Decision Platform**
+- 💡 CS1 and CB2
 - 📫 Reach me at mdshahrukhbme@gmail.com 
 - 📄 [Resume](https://github.com/Pathaan/Pathaan/blob/main/Md_Shahrukh_Resume_Actuarial.pdf)
 - 
